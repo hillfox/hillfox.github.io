@@ -1,2 +1,3 @@
 name: Zhang Yong-gang
-markdown: kramdownpermalink: /blog/:year/:month/:day/:title
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
