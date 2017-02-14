@@ -1,1 +1,7 @@
----layout: posttitle: Tech Blog from Zhang Yonggang---<h2>{{ page.title }}</h2><p>This is to check my Github tech blog</p><p>{{ page.date | date_to_string }}</p>
+---
+layout: post
+title: Tech Blog from Zhang Yonggang
+date: 2017-02-14
+---
+
+This is to check my Github tech blog.
