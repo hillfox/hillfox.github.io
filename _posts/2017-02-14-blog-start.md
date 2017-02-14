@@ -1,0 +1,1 @@
+---layout: posttitle: Tech Blog from Zhang Yonggang---<h2>{{ page.title }}</h2><p>This is to check my Github tech blog</p><p>{{ page.date | date_to_string }}</p>
